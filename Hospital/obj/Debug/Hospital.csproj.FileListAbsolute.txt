@@ -1,0 +1,184 @@
+D:\AIUB\8th semester\C#\Hospital\Hospital\bin\Debug\Hospital.exe.config
+D:\AIUB\8th semester\C#\Hospital\Hospital\obj\Debug\Hospital.csprojResolveAssemblyReference.cache
+D:\AIUB\8th semester\C#\Hospital\Hospital\obj\Debug\Hospital.Form1.resources
+D:\AIUB\8th semester\C#\Hospital\Hospital\obj\Debug\Hospital.Properties.Resources.resources
+D:\AIUB\8th semester\C#\Hospital\Hospital\obj\Debug\Hospital.csproj.GenerateResource.Cache
+D:\AIUB\8th semester\C#\Hospital\Hospital\bin\Debug\HospitalManagementSystem.mdf
+D:\AIUB\8th semester\C#\Hospital\Hospital\bin\Debug\HospitalManagementSystem_log.ldf
+D:\AIUB\8th semester\C#\Hospital\Hospital\bin\Debug\Hospital.exe
+D:\AIUB\8th semester\C#\Hospital\Hospital\bin\Debug\Hospital.pdb
+D:\AIUB\8th semester\C#\Hospital\Hospital\obj\Debug\Hospital.exe
+D:\AIUB\8th semester\C#\Hospital\Hospital\obj\Debug\Hospital.pdb
+D:\AIUB\8th semester\C#\Hospital\Hospital\obj\Debug\Hospital.AddCabin.resources
+D:\AIUB\8th semester\C#\Hospital\Hospital\obj\Debug\Hospital.PaitentList.resources
+D:\AIUB\8th semester\C#\Hospital\Hospital\obj\Debug\Hospital.Admin.resources
+D:\AIUB\8th semester\C#\Hospital\Hospital\obj\Debug\Hospital.AddDoctor.resources
+D:\AIUB\8th semester\C#\Hospital\Hospital\obj\Debug\Hospital.DoctorList.resources
+D:\AIUB\8th semester\C#\Hospital\Hospital\obj\Debug\Hospital.Login.resources
+D:\AIUB\8th semester\C#\Hospital\Hospital\obj\Debug\Hospital.DeleteCabin.resources
+F:\AIUB\AIUB cls Note\Semester - 9\C#\Project\Document from FarhaN Fahidur Rahim\Hospital\Hospital\bin\Debug\Hospital.exe.config
+F:\AIUB\AIUB cls Note\Semester - 9\C#\Project\Document from FarhaN Fahidur Rahim\Hospital\Hospital\obj\Debug\Hospital.exe
+F:\AIUB\AIUB cls Note\Semester - 9\C#\Project\Document from FarhaN Fahidur Rahim\Hospital\Hospital\obj\Debug\Hospital.pdb
+F:\AIUB\AIUB cls Note\Semester - 9\C#\Project\Document from FarhaN Fahidur Rahim\Hospital\Hospital\bin\Debug\HospitalManagementSystem.mdf
+F:\AIUB\AIUB cls Note\Semester - 9\C#\Project\Document from FarhaN Fahidur Rahim\Hospital\Hospital\bin\Debug\HospitalManagementSystem_log.ldf
+F:\AIUB\AIUB cls Note\Semester - 9\C#\Project\Document from FarhaN Fahidur Rahim\Hospital\Hospital\bin\Debug\Hospital.exe
+F:\AIUB\AIUB cls Note\Semester - 9\C#\Project\Document from FarhaN Fahidur Rahim\Hospital\Hospital\bin\Debug\Hospital.pdb
+F:\AIUB\AIUB cls Note\Semester - 9\C#\Project\Document from FarhaN Fahidur Rahim\Hospital\Hospital\obj\Debug\Hospital.csprojResolveAssemblyReference.cache
+F:\AIUB\AIUB cls Note\Semester - 9\C#\Project\Document from FarhaN Fahidur Rahim\Hospital\Hospital\obj\Debug\Hospital.AddCabin.resources
+F:\AIUB\AIUB cls Note\Semester - 9\C#\Project\Document from FarhaN Fahidur Rahim\Hospital\Hospital\obj\Debug\Hospital.AddDoctor.resources
+F:\AIUB\AIUB cls Note\Semester - 9\C#\Project\Document from FarhaN Fahidur Rahim\Hospital\Hospital\obj\Debug\Hospital.Admin.resources
+F:\AIUB\AIUB cls Note\Semester - 9\C#\Project\Document from FarhaN Fahidur Rahim\Hospital\Hospital\obj\Debug\Hospital.DeleteCabin.resources
+F:\AIUB\AIUB cls Note\Semester - 9\C#\Project\Document from FarhaN Fahidur Rahim\Hospital\Hospital\obj\Debug\Hospital.DoctorList.resources
+F:\AIUB\AIUB cls Note\Semester - 9\C#\Project\Document from FarhaN Fahidur Rahim\Hospital\Hospital\obj\Debug\Hospital.Form1.resources
+F:\AIUB\AIUB cls Note\Semester - 9\C#\Project\Document from FarhaN Fahidur Rahim\Hospital\Hospital\obj\Debug\Hospital.login.resources
+F:\AIUB\AIUB cls Note\Semester - 9\C#\Project\Document from FarhaN Fahidur Rahim\Hospital\Hospital\obj\Debug\Hospital.PaitentList.resources
+F:\AIUB\AIUB cls Note\Semester - 9\C#\Project\Document from FarhaN Fahidur Rahim\Hospital\Hospital\obj\Debug\Hospital.Properties.Resources.resources
+F:\AIUB\AIUB cls Note\Semester - 9\C#\Project\Document from FarhaN Fahidur Rahim\Hospital\Hospital\obj\Debug\Hospital.csproj.GenerateResource.Cache
+F:\AIUB\AIUB cls Note\Semester - 9\C#\Project\Document from FarhaN Fahidur Rahim\Hospital\Hospital\obj\Debug\Hospital.Booking.resources
+F:\AIUB\AIUB cls Note\Semester - 9\C#\Project\Document from FarhaN Fahidur Rahim\Hospital\Hospital\obj\Debug\Hospital.PatientCheckOut.resources
+F:\AIUB\AIUB cls Note\Semester - 9\C#\Project\Document from FarhaN Fahidur Rahim\Hospital\Hospital\obj\Debug\Hospital.Receptionist.resources
+C:\Users\Jahangir Jumon\Downloads\SHAREit\HUAWEI SCC-U21\file\Hospital\Hospital\Hospital\bin\Debug\Hospital.exe.config
+C:\Users\Jahangir Jumon\Downloads\SHAREit\HUAWEI SCC-U21\file\Hospital\Hospital\Hospital\obj\Debug\Hospital.exe
+C:\Users\Jahangir Jumon\Downloads\SHAREit\HUAWEI SCC-U21\file\Hospital\Hospital\Hospital\obj\Debug\Hospital.pdb
+C:\Users\Jahangir Jumon\Downloads\SHAREit\HUAWEI SCC-U21\file\Hospital\Hospital\Hospital\bin\Debug\HospitalManagementSystem.mdf
+C:\Users\Jahangir Jumon\Downloads\SHAREit\HUAWEI SCC-U21\file\Hospital\Hospital\Hospital\bin\Debug\HospitalManagementSystem_log.ldf
+C:\Users\Jahangir Jumon\Downloads\SHAREit\HUAWEI SCC-U21\file\Hospital\Hospital\Hospital\bin\Debug\Hospital.exe
+C:\Users\Jahangir Jumon\Downloads\SHAREit\HUAWEI SCC-U21\file\Hospital\Hospital\Hospital\bin\Debug\Hospital.pdb
+C:\Users\Jahangir Jumon\Downloads\SHAREit\HUAWEI SCC-U21\file\Hospital\Hospital\Hospital\obj\Debug\Hospital.csprojResolveAssemblyReference.cache
+C:\Users\Jahangir Jumon\Downloads\SHAREit\HUAWEI SCC-U21\file\Hospital\Hospital\Hospital\obj\Debug\Hospital.Booking.resources
+C:\Users\Jahangir Jumon\Downloads\SHAREit\HUAWEI SCC-U21\file\Hospital\Hospital\Hospital\obj\Debug\Hospital.PatientCheckOut.resources
+C:\Users\Jahangir Jumon\Downloads\SHAREit\HUAWEI SCC-U21\file\Hospital\Hospital\Hospital\obj\Debug\Hospital.Receptionist.resources
+C:\Users\Jahangir Jumon\Downloads\SHAREit\HUAWEI SCC-U21\file\Hospital\Hospital\Hospital\obj\Debug\Hospital.AddCabin.resources
+C:\Users\Jahangir Jumon\Downloads\SHAREit\HUAWEI SCC-U21\file\Hospital\Hospital\Hospital\obj\Debug\Hospital.AddDoctor.resources
+C:\Users\Jahangir Jumon\Downloads\SHAREit\HUAWEI SCC-U21\file\Hospital\Hospital\Hospital\obj\Debug\Hospital.Admin.resources
+C:\Users\Jahangir Jumon\Downloads\SHAREit\HUAWEI SCC-U21\file\Hospital\Hospital\Hospital\obj\Debug\Hospital.DeleteCabin.resources
+C:\Users\Jahangir Jumon\Downloads\SHAREit\HUAWEI SCC-U21\file\Hospital\Hospital\Hospital\obj\Debug\Hospital.DoctorList.resources
+C:\Users\Jahangir Jumon\Downloads\SHAREit\HUAWEI SCC-U21\file\Hospital\Hospital\Hospital\obj\Debug\Hospital.Form1.resources
+C:\Users\Jahangir Jumon\Downloads\SHAREit\HUAWEI SCC-U21\file\Hospital\Hospital\Hospital\obj\Debug\Hospital.login.resources
+C:\Users\Jahangir Jumon\Downloads\SHAREit\HUAWEI SCC-U21\file\Hospital\Hospital\Hospital\obj\Debug\Hospital.PaitentList.resources
+C:\Users\Jahangir Jumon\Downloads\SHAREit\HUAWEI SCC-U21\file\Hospital\Hospital\Hospital\obj\Debug\Hospital.Properties.Resources.resources
+C:\Users\Jahangir Jumon\Downloads\SHAREit\HUAWEI SCC-U21\file\Hospital\Hospital\Hospital\obj\Debug\Hospital.csproj.GenerateResource.Cache
+C:\Users\Jahangir Jumon\Downloads\SHAREit\HUAWEI SCC-U21\file\Hospital\Hospital\Hospital\obj\Debug\Hospital.paitentCabinList.resources
+C:\Users\Jahangir Jumon\Downloads\SHAREit\HUAWEI SCC-U21\file\Hospital\Hospital\Hospital\obj\Debug\Hospital.PaitentDoctorList.resources
+C:\Users\Jahangir Jumon\Downloads\SHAREit\HUAWEI SCC-U21\file\Hospital\Hospital\Hospital\obj\Debug\Hospital.PaitentRegistration.resources
+C:\Users\Jahangir Jumon\Downloads\SHAREit\HUAWEI SCC-U21\file\Hospital\Hospital\Hospital\obj\Debug\Hospital.PaitentListUser.resources
+C:\Users\Jahangir Jumon\Downloads\SHAREit\HUAWEI SCC-U21\file\Hospital\Hospital\Hospital\obj\Debug\Hospital.updateDoctor.resources
+C:\Users\Jahangir Jumon\Downloads\SHAREit\HUAWEI SCC-U21\file\Hospital\Hospital\Hospital\obj\Debug\Hospital.DeleteDoctor.resources
+C:\Users\Jahangir Jumon\Downloads\SHAREit\HUAWEI SCC-U21\file\Hospital\Hospital\Hospital\obj\Debug\Hospital.updateCabinList.resources
+F:\AIUB\AIUB cls Note\Semester - 9\C#\Project\New1\HospitalLatest\Hospital\bin\Debug\Hospital.exe.config
+F:\AIUB\AIUB cls Note\Semester - 9\C#\Project\New1\HospitalLatest\Hospital\obj\Debug\Hospital.exe
+F:\AIUB\AIUB cls Note\Semester - 9\C#\Project\New1\HospitalLatest\Hospital\obj\Debug\Hospital.pdb
+F:\AIUB\AIUB cls Note\Semester - 9\C#\Project\New1\HospitalLatest\Hospital\bin\Debug\HospitalManagementSystem.mdf
+F:\AIUB\AIUB cls Note\Semester - 9\C#\Project\New1\HospitalLatest\Hospital\bin\Debug\HospitalManagementSystem_log.ldf
+F:\AIUB\AIUB cls Note\Semester - 9\C#\Project\New1\HospitalLatest\Hospital\bin\Debug\Hospital.exe
+F:\AIUB\AIUB cls Note\Semester - 9\C#\Project\New1\HospitalLatest\Hospital\bin\Debug\Hospital.pdb
+F:\AIUB\AIUB cls Note\Semester - 9\C#\Project\New1\HospitalLatest\Hospital\obj\Debug\Hospital.csprojResolveAssemblyReference.cache
+F:\AIUB\AIUB cls Note\Semester - 9\C#\Project\New1\HospitalLatest\Hospital\obj\Debug\Hospital.Booking.resources
+F:\AIUB\AIUB cls Note\Semester - 9\C#\Project\New1\HospitalLatest\Hospital\obj\Debug\Hospital.DeleteDoctor.resources
+F:\AIUB\AIUB cls Note\Semester - 9\C#\Project\New1\HospitalLatest\Hospital\obj\Debug\Hospital.paitentCabinList.resources
+F:\AIUB\AIUB cls Note\Semester - 9\C#\Project\New1\HospitalLatest\Hospital\obj\Debug\Hospital.PaitentDoctorList.resources
+F:\AIUB\AIUB cls Note\Semester - 9\C#\Project\New1\HospitalLatest\Hospital\obj\Debug\Hospital.PaitentListUser.resources
+F:\AIUB\AIUB cls Note\Semester - 9\C#\Project\New1\HospitalLatest\Hospital\obj\Debug\Hospital.PaitentRegistration.resources
+F:\AIUB\AIUB cls Note\Semester - 9\C#\Project\New1\HospitalLatest\Hospital\obj\Debug\Hospital.PatientCheckOut.resources
+F:\AIUB\AIUB cls Note\Semester - 9\C#\Project\New1\HospitalLatest\Hospital\obj\Debug\Hospital.Receptionist.resources
+F:\AIUB\AIUB cls Note\Semester - 9\C#\Project\New1\HospitalLatest\Hospital\obj\Debug\Hospital.updateCabinList.resources
+F:\AIUB\AIUB cls Note\Semester - 9\C#\Project\New1\HospitalLatest\Hospital\obj\Debug\Hospital.updateDoctor.resources
+F:\AIUB\AIUB cls Note\Semester - 9\C#\Project\New1\HospitalLatest\Hospital\obj\Debug\Hospital.AddCabin.resources
+F:\AIUB\AIUB cls Note\Semester - 9\C#\Project\New1\HospitalLatest\Hospital\obj\Debug\Hospital.AddDoctor.resources
+F:\AIUB\AIUB cls Note\Semester - 9\C#\Project\New1\HospitalLatest\Hospital\obj\Debug\Hospital.Admin.resources
+F:\AIUB\AIUB cls Note\Semester - 9\C#\Project\New1\HospitalLatest\Hospital\obj\Debug\Hospital.DeleteCabin.resources
+F:\AIUB\AIUB cls Note\Semester - 9\C#\Project\New1\HospitalLatest\Hospital\obj\Debug\Hospital.DoctorList.resources
+F:\AIUB\AIUB cls Note\Semester - 9\C#\Project\New1\HospitalLatest\Hospital\obj\Debug\Hospital.Form1.resources
+F:\AIUB\AIUB cls Note\Semester - 9\C#\Project\New1\HospitalLatest\Hospital\obj\Debug\Hospital.login.resources
+F:\AIUB\AIUB cls Note\Semester - 9\C#\Project\New1\HospitalLatest\Hospital\obj\Debug\Hospital.PaitentList.resources
+F:\AIUB\AIUB cls Note\Semester - 9\C#\Project\New1\HospitalLatest\Hospital\obj\Debug\Hospital.Properties.Resources.resources
+F:\AIUB\AIUB cls Note\Semester - 9\C#\Project\New1\HospitalLatest\Hospital\obj\Debug\Hospital.csproj.GenerateResource.Cache
+F:\AIUB\AIUB cls Note\Semester - 9\C#\Project\New1\HospitalLatest\Hospital\obj\Debug\Hospital.BloodNeed.resources
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest\Hospital\bin\Debug\Hospital.exe.config
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest\Hospital\obj\Debug\Hospital.exe
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest\Hospital\obj\Debug\Hospital.pdb
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest\Hospital\bin\Debug\HospitalManagementSystem.mdf
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest\Hospital\bin\Debug\HospitalManagementSystem_log.ldf
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest\Hospital\bin\Debug\Hospital.exe
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest\Hospital\bin\Debug\Hospital.pdb
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest\Hospital\obj\Debug\Hospital.csprojResolveAssemblyReference.cache
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest\Hospital\obj\Debug\Hospital.BloodNeed.resources
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest\Hospital\obj\Debug\Hospital.DeleteDoctor.resources
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest\Hospital\obj\Debug\Hospital.paitentCabinList.resources
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest\Hospital\obj\Debug\Hospital.PaitentDoctorList.resources
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest\Hospital\obj\Debug\Hospital.PaitentListUser.resources
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest\Hospital\obj\Debug\Hospital.PaitentRegistration.resources
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest\Hospital\obj\Debug\Hospital.PatientCheckOut.resources
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest\Hospital\obj\Debug\Hospital.Receptionist.resources
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest\Hospital\obj\Debug\Hospital.updateCabinList.resources
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest\Hospital\obj\Debug\Hospital.updateDoctor.resources
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest\Hospital\obj\Debug\Hospital.AddCabin.resources
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest\Hospital\obj\Debug\Hospital.AddDoctor.resources
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest\Hospital\obj\Debug\Hospital.Admin.resources
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest\Hospital\obj\Debug\Hospital.DeleteCabin.resources
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest\Hospital\obj\Debug\Hospital.DoctorList.resources
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest\Hospital\obj\Debug\Hospital.Form1.resources
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest\Hospital\obj\Debug\Hospital.login.resources
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest\Hospital\obj\Debug\Hospital.PaitentList.resources
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest\Hospital\obj\Debug\Hospital.Properties.Resources.resources
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest\Hospital\obj\Debug\Hospital.csproj.GenerateResource.Cache
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest - final\HospitalLatest - final\Hospital\bin\Debug\Hospital.exe.config
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest - final\HospitalLatest - final\Hospital\obj\Debug\Hospital.exe
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest - final\HospitalLatest - final\Hospital\obj\Debug\Hospital.pdb
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest - final\HospitalLatest - final\Hospital\bin\Debug\HospitalManagementSystem.mdf
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest - final\HospitalLatest - final\Hospital\bin\Debug\HospitalManagementSystem_log.ldf
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest - final\HospitalLatest - final\Hospital\bin\Debug\Hospital.exe
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest - final\HospitalLatest - final\Hospital\bin\Debug\Hospital.pdb
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest - final\HospitalLatest - final\Hospital\obj\Debug\Hospital.csprojResolveAssemblyReference.cache
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest - final\HospitalLatest - final\Hospital\obj\Debug\Hospital.BloodNeed.resources
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest - final\HospitalLatest - final\Hospital\obj\Debug\Hospital.DeleteDoctor.resources
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest - final\HospitalLatest - final\Hospital\obj\Debug\Hospital.paitentCabinList.resources
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest - final\HospitalLatest - final\Hospital\obj\Debug\Hospital.PaitentDoctorList.resources
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest - final\HospitalLatest - final\Hospital\obj\Debug\Hospital.PaitentListUser.resources
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest - final\HospitalLatest - final\Hospital\obj\Debug\Hospital.PaitentRegistration.resources
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest - final\HospitalLatest - final\Hospital\obj\Debug\Hospital.PatientCheckOut.resources
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest - final\HospitalLatest - final\Hospital\obj\Debug\Hospital.Receptionist.resources
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest - final\HospitalLatest - final\Hospital\obj\Debug\Hospital.updateCabinList.resources
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest - final\HospitalLatest - final\Hospital\obj\Debug\Hospital.updateDoctor.resources
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest - final\HospitalLatest - final\Hospital\obj\Debug\Hospital.AddCabin.resources
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest - final\HospitalLatest - final\Hospital\obj\Debug\Hospital.AddDoctor.resources
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest - final\HospitalLatest - final\Hospital\obj\Debug\Hospital.Admin.resources
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest - final\HospitalLatest - final\Hospital\obj\Debug\Hospital.DeleteCabin.resources
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest - final\HospitalLatest - final\Hospital\obj\Debug\Hospital.DoctorList.resources
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest - final\HospitalLatest - final\Hospital\obj\Debug\Hospital.Form1.resources
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest - final\HospitalLatest - final\Hospital\obj\Debug\Hospital.login.resources
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest - final\HospitalLatest - final\Hospital\obj\Debug\Hospital.PaitentList.resources
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest - final\HospitalLatest - final\Hospital\obj\Debug\Hospital.Properties.Resources.resources
+D:\AIUB\8th semester\C#\HospitalLatest1\HospitalLatest - final\HospitalLatest - final\Hospital\obj\Debug\Hospital.csproj.GenerateResource.Cache
+D:\AIUB\8th semester\C#\Project\Final\Hospital\bin\Debug\Hospital.exe.config
+D:\AIUB\8th semester\C#\Project\Final\Hospital\obj\Debug\Hospital.exe
+D:\AIUB\8th semester\C#\Project\Final\Hospital\obj\Debug\Hospital.pdb
+E:\AIUB\8th semester\C#\Project\Final\Hospital\bin\Debug\Hospital.exe.config
+E:\AIUB\8th semester\C#\Project\Final\Hospital\obj\Debug\Hospital.exe
+E:\AIUB\8th semester\C#\Project\Final\Hospital\obj\Debug\Hospital.pdb
+E:\AIUB\8th semester\C#\Project\Final\Hospital\bin\Debug\HospitalManagementSystem.mdf
+E:\AIUB\8th semester\C#\Project\Final\Hospital\bin\Debug\HospitalManagementSystem_log.ldf
+E:\AIUB\8th semester\C#\Project\Final\Hospital\bin\Debug\Hospital.exe
+E:\AIUB\8th semester\C#\Project\Final\Hospital\bin\Debug\Hospital.pdb
+E:\AIUB\8th semester\C#\Project\Final\Hospital\obj\Debug\Hospital.csprojResolveAssemblyReference.cache
+E:\AIUB\8th semester\C#\Project\Final\Hospital\obj\Debug\Hospital.BloodNeed.resources
+E:\AIUB\8th semester\C#\Project\Final\Hospital\obj\Debug\Hospital.DeleteDoctor.resources
+E:\AIUB\8th semester\C#\Project\Final\Hospital\obj\Debug\Hospital.paitentCabinList.resources
+E:\AIUB\8th semester\C#\Project\Final\Hospital\obj\Debug\Hospital.PaitentDoctorList.resources
+E:\AIUB\8th semester\C#\Project\Final\Hospital\obj\Debug\Hospital.PaitentListUser.resources
+E:\AIUB\8th semester\C#\Project\Final\Hospital\obj\Debug\Hospital.PaitentRegistration.resources
+E:\AIUB\8th semester\C#\Project\Final\Hospital\obj\Debug\Hospital.PatientCheckOut.resources
+E:\AIUB\8th semester\C#\Project\Final\Hospital\obj\Debug\Hospital.Receptionist.resources
+E:\AIUB\8th semester\C#\Project\Final\Hospital\obj\Debug\Hospital.updateCabinList.resources
+E:\AIUB\8th semester\C#\Project\Final\Hospital\obj\Debug\Hospital.updateDoctor.resources
+E:\AIUB\8th semester\C#\Project\Final\Hospital\obj\Debug\Hospital.AddCabin.resources
+E:\AIUB\8th semester\C#\Project\Final\Hospital\obj\Debug\Hospital.AddDoctor.resources
+E:\AIUB\8th semester\C#\Project\Final\Hospital\obj\Debug\Hospital.Admin.resources
+E:\AIUB\8th semester\C#\Project\Final\Hospital\obj\Debug\Hospital.DeleteCabin.resources
+E:\AIUB\8th semester\C#\Project\Final\Hospital\obj\Debug\Hospital.DoctorList.resources
+E:\AIUB\8th semester\C#\Project\Final\Hospital\obj\Debug\Hospital.Form1.resources
+E:\AIUB\8th semester\C#\Project\Final\Hospital\obj\Debug\Hospital.login.resources
+E:\AIUB\8th semester\C#\Project\Final\Hospital\obj\Debug\Hospital.PaitentList.resources
+E:\AIUB\8th semester\C#\Project\Final\Hospital\obj\Debug\Hospital.Properties.Resources.resources
+E:\AIUB\8th semester\C#\Project\Final\Hospital\obj\Debug\Hospital.csproj.GenerateResource.Cache
+E:\AIUB\8th semester\C#\Project\Final\Hospital\obj\Debug\Hospital.Data.resources

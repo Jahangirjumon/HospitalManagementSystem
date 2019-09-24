@@ -1,0 +1,324 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{62E0DE90-1A88-47DF-BB0C-38A87688B15F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Hospital</RootNamespace>
+    <AssemblyName>Hospital</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddCabin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddCabin.Designer.cs">
+      <DependentUpon>AddCabin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddDoctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddDoctor.Designer.cs">
+      <DependentUpon>AddDoctor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin.Designer.cs">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BloodNeed.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BloodNeed.Designer.cs">
+      <DependentUpon>BloodNeed.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CabinDB.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CabinDB.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="Data.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Data.Designer.cs">
+      <DependentUpon>Data.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DatabaseClass.cs" />
+    <Compile Include="DeleteCabin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeleteCabin.Designer.cs">
+      <DependentUpon>DeleteCabin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteDoctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeleteDoctor.Designer.cs">
+      <DependentUpon>DeleteDoctor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DoctorList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DoctorList.Designer.cs">
+      <DependentUpon>DoctorList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="paitentCabinList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="paitentCabinList.Designer.cs">
+      <DependentUpon>paitentCabinList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PaitentDoctorList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PaitentDoctorList.Designer.cs">
+      <DependentUpon>PaitentDoctorList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PaitentList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PaitentList.Designer.cs">
+      <DependentUpon>PaitentList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PaitentListUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PaitentListUser.Designer.cs">
+      <DependentUpon>PaitentListUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PaitentRegistration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PaitentRegistration.Designer.cs">
+      <DependentUpon>PaitentRegistration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PatientCheckOut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PatientCheckOut.Designer.cs">
+      <DependentUpon>PatientCheckOut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Receptionist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Receptionist.Designer.cs">
+      <DependentUpon>Receptionist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="updateCabinList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="updateCabinList.Designer.cs">
+      <DependentUpon>updateCabinList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="updateDoctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="updateDoctor.Designer.cs">
+      <DependentUpon>updateDoctor.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="BloodNeed.resx">
+      <DependentUpon>BloodNeed.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Data.resx">
+      <DependentUpon>Data.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteDoctor.resx">
+      <DependentUpon>DeleteDoctor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="paitentCabinList.resx">
+      <DependentUpon>paitentCabinList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PaitentDoctorList.resx">
+      <DependentUpon>PaitentDoctorList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PaitentListUser.resx">
+      <DependentUpon>PaitentListUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PaitentRegistration.resx">
+      <DependentUpon>PaitentRegistration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PatientCheckOut.resx">
+      <DependentUpon>PatientCheckOut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Receptionist.resx">
+      <DependentUpon>Receptionist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="updateCabinList.resx">
+      <DependentUpon>updateCabinList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="updateDoctor.resx">
+      <DependentUpon>updateDoctor.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="CabinDB.dbml.layout">
+      <DependentUpon>CabinDB.dbml</DependentUpon>
+    </None>
+    <EmbeddedResource Include="AddCabin.resx">
+      <DependentUpon>AddCabin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddDoctor.resx">
+      <DependentUpon>AddDoctor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin.resx">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteCabin.resx">
+      <DependentUpon>DeleteCabin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DoctorList.resx">
+      <DependentUpon>DoctorList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PaitentList.resx">
+      <DependentUpon>PaitentList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="CabinDB.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>CabinDB.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="HospitalManagementSystem.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="HospitalManagementSystem_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>HospitalManagementSystem.mdf</DependentUpon>
+    </Content>
+    <None Include="Resources\Go-back-icon.png" />
+    <None Include="Resources\Apps-Dialog-Logout-icon.png" />
+    <None Include="Resources\Apps-session-logout-icon.png" />
+    <None Include="Resources\37919-200.png" />
+    <None Include="Resources\hospital-icon %281%29.png" />
+    <None Include="Resources\hospital-icon.png" />
+    <None Include="Resources\Actions-window-close-icon1.png" />
+    <None Include="Resources\Ok-icon4.png" />
+    <None Include="Resources\Ok-icon3.png" />
+    <None Include="Resources\Ok-icon2.png" />
+    <None Include="Resources\Ok-icon1.png" />
+    <None Include="Resources\Actions-window-close-icon.png" />
+    <None Include="Resources\Ok-icon.png" />
+    <None Include="Resources\Login-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
